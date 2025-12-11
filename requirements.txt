@@ -1,0 +1,11 @@
+Python 3.x
+
+pandas
+
+scikit-learn
+
+matplotlib
+
+numpy
+
+seaborn
