@@ -4,7 +4,7 @@
 This project demonstrates customer segmentation using the K-Means clustering algorithm. Customer segmentation is a key marketing technique used to divide customers into groups based on shared characteristics. In this project, customers are grouped based on their <b>Annual Income</b> and <b>Spending Score</b> to help businesses better understand customer behavior and make data-driven decisions. This project was developed during my  Internship at <b>Prodigy Infotech</b> as part of a task focused on unsupervised learning and consumer behavior analysis.
 </p>
 
-## 📝 Table of Contents
+##  Table of Contents
 - [Project Overview](#project-overview)
 - [Why I Chose This Project](#why-i-chose-this-project)
 - [Problem This Project Solves](#problem-this-project-solves)
