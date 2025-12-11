@@ -32,6 +32,7 @@ Spending Score (1–100): Score assigned based on customer purchasing behavior
 For clustering, the project focuses specifically on Annual Income and Spending Score, as these two features strongly influence customer purchasing patterns.
 
 ##Flow of the Project
+
 The project begins with loading the dataset and performing exploratory data analysis to understand the structure, summary statistics, and customer attributes. Annual Income and Spending Score are selected as the primary features for clustering. The data is then split into training and testing subsets to visualize cluster behavior across different portions of the data.
 K-Means clustering is applied with five clusters using the k-means++ initialization technique. After training the model, scatter plots are generated to visualize clusters for both training and testing datasets, with centroids clearly marked. To evaluate cluster quality, the Silhouette Score is computed, and the Elbow Method is used to validate the selection of the optimal number of clusters. The project concludes with silhouette distribution plots and final cluster visualizations, showing clear customer segments based on income and spending behavior.
 
