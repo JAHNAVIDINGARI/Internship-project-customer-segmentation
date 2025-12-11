@@ -108,4 +108,4 @@ Contact
 
 For queries, collaboration, or further discussion regarding this project, please reach out via LinkedIn:
 
-LinkedIn: https://www.linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/jahnavi-dingari
